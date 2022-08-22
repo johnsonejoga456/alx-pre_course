@@ -1,2 +1,6 @@
 echo ALX
+<<<<<<< HEAD
+echo ALX School
+=======
 echo ALX School is so cool!
+>>>>>>> a99a51453cc6773cbb85f3a5e80d4d6a1b68283b
